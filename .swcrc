@@ -1,0 +1,13 @@
+{
+  "jsc": {
+    "parser": {
+      "syntax": "typescript",
+      "tsx": true
+    },
+    "target": "es5"
+  },
+  "module": {
+    "type": "es6"
+  },
+  "isModule": true
+}
